@@ -1,0 +1,26 @@
+body {
+    background-color: rgba(108, 173, 173, 0.471);
+    text-align: center ;
+    background-image: url(background1.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+  }
+  
+  h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  h2 {
+    color: rgba(255, 15, 15, 0.745);
+    text-align: center ;
+  }
+  h4 {
+    color: rgb(9, 55, 139);
+    text-align: center ;
+  }
+img{
+width: 467px;
+height: 567px;
+
+}
