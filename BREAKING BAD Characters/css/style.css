@@ -4,7 +4,8 @@ body {
     background-image: url(background1.jpg) ;
     background-size: cover;
     background-repeat: no-repeat;
-   
+   background-position: center center;
+ background-attachment: fixed;
 
   }
   
@@ -21,7 +22,9 @@ body {
     text-align: center ;
   }
 img{
-width: 467px;
-height: 567px;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+
 
 }
